@@ -53,6 +53,15 @@ To install the CMU Navigator extension:
 - Search for “CMU Navigator.”
 - Click “Add to Chrome” to install.
 <br><br>
+
+## License
+This project is licensed under the MIT License. This means you're free to use, modify, and distribute the notes as long as you credit the source. See LICENSE.md for more details.
+<br><br>
+
+## Contact
+Questions, feedback, or want to collaborate? Feel free to reach out to me at allenzhu724@gmail.com or connect with me on LinkedIn.
+<br><br>
+
 ## Feedback and Contributions
 This extension is for and by the CMU community. We encourage feedback and contributions to enhance its functionality. Please visit our GitHub repository to report issues, suggest features, or contribute to the project.
 <br>
