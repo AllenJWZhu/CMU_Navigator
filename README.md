@@ -59,7 +59,7 @@ This project is licensed under the MIT License. This means you're free to use, m
 <br><br>
 
 ## Contact
-Questions, feedback, or want to collaborate? Feel free to reach out to me at allenzhu724@gmail.com or connect with me on LinkedIn.
+Questions, feedback, or want to collaborate? Feel free to reach out to me at allenzhu724@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/allenjwzhu724/).
 <br><br>
 
 ## Feedback and Contributions
