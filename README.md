@@ -55,7 +55,7 @@ To install the CMU Navigator extension:
 <br><br>
 
 ## License
-This project is licensed under the MIT License. This means you're free to use, modify, and distribute the notes as long as you credit the source. See LICENSE.md for more details.
+This project is licensed under the MIT License. This means you're free to use, modify, and distribute the notes as long as you credit the source. See [LICENSE.md](LINK) for more details.
 <br><br>
 
 ## Contact
